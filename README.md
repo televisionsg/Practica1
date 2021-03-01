@@ -5,7 +5,9 @@ El proyecto consiste en sacar una apoximacion de Pi, mediante el metodo de Monte
 COMO INICIAR:
 
 El proyecto compila usando un archivo makefile: $ make compilar
+
 El proyecto se ejecuta usando: $ make ejecutar
+
 Se crea la documentacion del proyecto usando: $ make javadoc
 
 Autor: Sebastian Gines
